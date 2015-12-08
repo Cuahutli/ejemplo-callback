@@ -5,4 +5,4 @@ Ejemplo de como funcionan los callbacks en javascript
 
 
 
-puedes probarlo utilizando [jsFiddle](http://jsfiddle.net/ "jsfiddle.net"), sólo copia este código y pegalo  para poder ejecutarlo
+puedes probarlo utilizando [jsFiddle](http://jsfiddle.net/ "jsfiddle.net"), sólo copia el código de callback-sample.js y pegalo  para poder ejecutarlo
